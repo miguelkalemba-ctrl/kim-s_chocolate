@@ -1,0 +1,6932 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "KMC-0001",
+      "code": "KMC-0001",
+      "name": "Cardboard Gift Boxes - Small (8x8x3cm) - Guylian Style",
+      "category": "Containers",
+      "price": 5.53,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 10,
+      "height": 5,
+      "depth": 2,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "Slight wear on edges",
+      "notes": "Bulk purchase discount applied",
+      "dateAdded": "2026-04-03",
+      "brand": "Amcor Belgium",
+      "year": 2023,
+      "material": "Paper/Cardboard",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "Admin",
+      "updatedAt": "2026-04-03T09:10:42.330Z",
+      "revision": 3,
+      "auditTrail": [
+        {
+          "ts": "2026-04-03",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        },
+        {
+          "ts": "2026-04-03T09:10:16.550Z",
+          "user": "Admin",
+          "action": "api-updated",
+          "revision": 2
+        },
+        {
+          "ts": "2026-04-03T09:10:42.330Z",
+          "user": "Admin",
+          "action": "api-updated",
+          "revision": 3
+        }
+      ],
+      "stockCount": 148,
+      "stockLimit": 100,
+      "stockUnit": "units",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 188
+        },
+        {
+          "date": "2026-03-21",
+          "count": 216
+        },
+        {
+          "date": "2026-03-22",
+          "count": 47
+        },
+        {
+          "date": "2026-03-23",
+          "count": 165
+        },
+        {
+          "date": "2026-03-24",
+          "count": 166
+        },
+        {
+          "date": "2026-03-25",
+          "count": 175
+        },
+        {
+          "date": "2026-03-26",
+          "count": 197
+        },
+        {
+          "date": "2026-03-27",
+          "count": 169
+        },
+        {
+          "date": "2026-03-28",
+          "count": 120
+        },
+        {
+          "date": "2026-03-29",
+          "count": 40
+        },
+        {
+          "date": "2026-03-30",
+          "count": 181
+        },
+        {
+          "date": "2026-03-31",
+          "count": 204
+        },
+        {
+          "date": "2026-04-01",
+          "count": 48
+        },
+        {
+          "date": "2026-04-02",
+          "count": 139
+        },
+        {
+          "date": "2026-04-03",
+          "count": 189
+        }
+      ]
+    },
+    {
+      "id": "KMC-0002",
+      "code": "KMC-0002",
+      "name": "Cardboard Gift Boxes - Medium (12x12x4cm) - Côte d'Or Style",
+      "category": "Containers",
+      "price": 1.4,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 11,
+      "height": 6,
+      "depth": 3,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-04-02",
+      "brand": "Huhtamaki Belgium",
+      "year": 2024,
+      "material": "Paper/Cardboard",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "Admin",
+      "updatedAt": "2026-04-03T09:56:44.587Z",
+      "revision": 2,
+      "auditTrail": [
+        {
+          "ts": "2026-04-02",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        },
+        {
+          "ts": "2026-04-03T09:56:44.587Z",
+          "user": "Admin",
+          "action": "api-updated",
+          "revision": 2
+        }
+      ],
+      "stockCount": 1,
+      "stockLimit": 31,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 133
+        },
+        {
+          "date": "2026-03-21",
+          "count": 151
+        },
+        {
+          "date": "2026-03-22",
+          "count": 182
+        },
+        {
+          "date": "2026-03-23",
+          "count": 224
+        },
+        {
+          "date": "2026-03-24",
+          "count": 56
+        },
+        {
+          "date": "2026-03-25",
+          "count": 191
+        },
+        {
+          "date": "2026-03-26",
+          "count": 86
+        },
+        {
+          "date": "2026-03-27",
+          "count": 184
+        },
+        {
+          "date": "2026-03-28",
+          "count": 125
+        },
+        {
+          "date": "2026-03-29",
+          "count": 77
+        },
+        {
+          "date": "2026-03-30",
+          "count": 189
+        },
+        {
+          "date": "2026-03-31",
+          "count": 188
+        },
+        {
+          "date": "2026-04-01",
+          "count": 156
+        },
+        {
+          "date": "2026-04-02",
+          "count": 195
+        },
+        {
+          "date": "2026-04-03",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "KMC-0003",
+      "code": "KMC-0003",
+      "name": "Cardboard Gift Boxes - Large (16x16x6cm) - Premium Collection",
+      "category": "Containers",
+      "price": 20.24,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 12,
+      "height": 7,
+      "depth": 4,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": false
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-04-01",
+      "brand": "Smurfit Kappa",
+      "year": 2023,
+      "material": "Paper/Cardboard",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "Admin",
+      "updatedAt": "2026-04-03T09:27:52.452Z",
+      "revision": 2,
+      "auditTrail": [
+        {
+          "ts": "2026-04-01",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        },
+        {
+          "ts": "2026-04-03T09:27:52.452Z",
+          "user": "Admin",
+          "action": "api-updated",
+          "revision": 2
+        }
+      ],
+      "stockCount": 105,
+      "stockLimit": 29,
+      "stockUnit": "boxes",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 166
+        },
+        {
+          "date": "2026-03-21",
+          "count": 163
+        },
+        {
+          "date": "2026-03-22",
+          "count": 116
+        },
+        {
+          "date": "2026-03-23",
+          "count": 152
+        },
+        {
+          "date": "2026-03-24",
+          "count": 177
+        },
+        {
+          "date": "2026-03-25",
+          "count": 31
+        },
+        {
+          "date": "2026-03-26",
+          "count": 213
+        },
+        {
+          "date": "2026-03-27",
+          "count": 58
+        },
+        {
+          "date": "2026-03-28",
+          "count": 42
+        },
+        {
+          "date": "2026-03-29",
+          "count": 178
+        },
+        {
+          "date": "2026-03-30",
+          "count": 122
+        },
+        {
+          "date": "2026-03-31",
+          "count": 21
+        },
+        {
+          "date": "2026-04-01",
+          "count": 83
+        },
+        {
+          "date": "2026-04-02",
+          "count": 164
+        },
+        {
+          "date": "2026-04-03",
+          "count": 150
+        }
+      ]
+    },
+    {
+      "id": "KMC-0004",
+      "code": "KMC-0004",
+      "name": "Cardboard Gift Boxes - Heart Shaped (14x14x4cm) - Valentine's Special",
+      "category": "Containers",
+      "price": 10.31,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 13,
+      "height": 8,
+      "depth": 5,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-31",
+      "brand": "DS Smith Packaging",
+      "year": 2024,
+      "material": "Paper/Cardboard",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-31",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-31",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 209,
+      "stockLimit": 35,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 86
+        },
+        {
+          "date": "2026-03-21",
+          "count": 78
+        },
+        {
+          "date": "2026-03-22",
+          "count": 48
+        },
+        {
+          "date": "2026-03-23",
+          "count": 70
+        },
+        {
+          "date": "2026-03-24",
+          "count": 157
+        },
+        {
+          "date": "2026-03-25",
+          "count": 142
+        },
+        {
+          "date": "2026-03-26",
+          "count": 143
+        },
+        {
+          "date": "2026-03-27",
+          "count": 68
+        },
+        {
+          "date": "2026-03-28",
+          "count": 197
+        },
+        {
+          "date": "2026-03-29",
+          "count": 116
+        },
+        {
+          "date": "2026-03-30",
+          "count": 41
+        },
+        {
+          "date": "2026-03-31",
+          "count": 149
+        },
+        {
+          "date": "2026-04-01",
+          "count": 219
+        },
+        {
+          "date": "2026-04-02",
+          "count": 91
+        },
+        {
+          "date": "2026-04-03",
+          "count": 154
+        }
+      ]
+    },
+    {
+      "id": "KMC-0005",
+      "code": "KMC-0005",
+      "name": "Cardboard Gift Boxes - Round (12cm diameter x 5cm) - Ballotin Style",
+      "category": "Containers",
+      "price": 4.37,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 14,
+      "height": 9,
+      "depth": 6,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-30",
+      "brand": "Mondi Group",
+      "year": 2023,
+      "material": "Paper/Cardboard",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-30",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-30",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 93,
+      "stockLimit": 21,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 37
+        },
+        {
+          "date": "2026-03-21",
+          "count": 194
+        },
+        {
+          "date": "2026-03-22",
+          "count": 41
+        },
+        {
+          "date": "2026-03-23",
+          "count": 141
+        },
+        {
+          "date": "2026-03-24",
+          "count": 176
+        },
+        {
+          "date": "2026-03-25",
+          "count": 51
+        },
+        {
+          "date": "2026-03-26",
+          "count": 33
+        },
+        {
+          "date": "2026-03-27",
+          "count": 123
+        },
+        {
+          "date": "2026-03-28",
+          "count": 103
+        },
+        {
+          "date": "2026-03-29",
+          "count": 223
+        },
+        {
+          "date": "2026-03-30",
+          "count": 62
+        },
+        {
+          "date": "2026-03-31",
+          "count": 14
+        },
+        {
+          "date": "2026-04-01",
+          "count": 43
+        },
+        {
+          "date": "2026-04-02",
+          "count": 139
+        },
+        {
+          "date": "2026-04-03",
+          "count": 178
+        }
+      ]
+    },
+    {
+      "id": "KMC-0006",
+      "code": "KMC-0006",
+      "name": "Plastic Window Boxes - Clear Lid (10x10x8cm) - Display Ready",
+      "category": "Containers",
+      "price": 10.55,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 15,
+      "height": 10,
+      "depth": 7,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-29",
+      "brand": "Tetra Pak",
+      "year": 2024,
+      "material": "Plastic",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-29",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-29",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 79,
+      "stockLimit": 16,
+      "stockUnit": "boxes",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 162
+        },
+        {
+          "date": "2026-03-21",
+          "count": 62
+        },
+        {
+          "date": "2026-03-22",
+          "count": 138
+        },
+        {
+          "date": "2026-03-23",
+          "count": 168
+        },
+        {
+          "date": "2026-03-24",
+          "count": 217
+        },
+        {
+          "date": "2026-03-25",
+          "count": 190
+        },
+        {
+          "date": "2026-03-26",
+          "count": 54
+        },
+        {
+          "date": "2026-03-27",
+          "count": 146
+        },
+        {
+          "date": "2026-03-28",
+          "count": 14
+        },
+        {
+          "date": "2026-03-29",
+          "count": 96
+        },
+        {
+          "date": "2026-03-30",
+          "count": 50
+        },
+        {
+          "date": "2026-03-31",
+          "count": 117
+        },
+        {
+          "date": "2026-04-01",
+          "count": 107
+        },
+        {
+          "date": "2026-04-02",
+          "count": 176
+        },
+        {
+          "date": "2026-04-03",
+          "count": 120
+        }
+      ]
+    },
+    {
+      "id": "KMC-0007",
+      "code": "KMC-0007",
+      "name": "Plastic Window Boxes - Hinged (15x10x6cm) - Reusable",
+      "category": "Containers",
+      "price": 11.23,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 16,
+      "height": 11,
+      "depth": 8,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Bulk purchase discount applied",
+      "dateAdded": "2026-03-28",
+      "brand": "SIG Combibloc",
+      "year": 2023,
+      "material": "Plastic",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-28",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-28",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 96,
+      "stockLimit": 17,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 11
+        },
+        {
+          "date": "2026-03-21",
+          "count": 137
+        },
+        {
+          "date": "2026-03-22",
+          "count": 123
+        },
+        {
+          "date": "2026-03-23",
+          "count": 86
+        },
+        {
+          "date": "2026-03-24",
+          "count": 146
+        },
+        {
+          "date": "2026-03-25",
+          "count": 216
+        },
+        {
+          "date": "2026-03-26",
+          "count": 140
+        },
+        {
+          "date": "2026-03-27",
+          "count": 123
+        },
+        {
+          "date": "2026-03-28",
+          "count": 83
+        },
+        {
+          "date": "2026-03-29",
+          "count": 131
+        },
+        {
+          "date": "2026-03-30",
+          "count": 62
+        },
+        {
+          "date": "2026-03-31",
+          "count": 101
+        },
+        {
+          "date": "2026-04-01",
+          "count": 130
+        },
+        {
+          "date": "2026-04-02",
+          "count": 87
+        },
+        {
+          "date": "2026-04-03",
+          "count": 77
+        }
+      ]
+    },
+    {
+      "id": "KMC-0008",
+      "code": "KMC-0008",
+      "name": "Metal Tins - Round (8cm diameter x 4cm) - Classic Design",
+      "category": "Containers",
+      "price": 6.16,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 17,
+      "height": 12,
+      "depth": 9,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-27",
+      "brand": "Crown Holdings",
+      "year": 2024,
+      "material": "Metal",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-27",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-27",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 39,
+      "stockLimit": 11,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 77
+        },
+        {
+          "date": "2026-03-21",
+          "count": 156
+        },
+        {
+          "date": "2026-03-22",
+          "count": 172
+        },
+        {
+          "date": "2026-03-23",
+          "count": 122
+        },
+        {
+          "date": "2026-03-24",
+          "count": 61
+        },
+        {
+          "date": "2026-03-25",
+          "count": 21
+        },
+        {
+          "date": "2026-03-26",
+          "count": 89
+        },
+        {
+          "date": "2026-03-27",
+          "count": 75
+        },
+        {
+          "date": "2026-03-28",
+          "count": 192
+        },
+        {
+          "date": "2026-03-29",
+          "count": 112
+        },
+        {
+          "date": "2026-03-30",
+          "count": 108
+        },
+        {
+          "date": "2026-03-31",
+          "count": 107
+        },
+        {
+          "date": "2026-04-01",
+          "count": 120
+        },
+        {
+          "date": "2026-04-02",
+          "count": 11
+        },
+        {
+          "date": "2026-04-03",
+          "count": 212
+        }
+      ]
+    },
+    {
+      "id": "KMC-0009",
+      "code": "KMC-0009",
+      "name": "Metal Tins - Square (10x10x5cm) - Modern Look",
+      "category": "Containers",
+      "price": 6.26,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 18,
+      "height": 13,
+      "depth": 10,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "Slight wear on edges",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-26",
+      "brand": "Ball Corporation",
+      "year": 2023,
+      "material": "Metal",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-26",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-26",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 117,
+      "stockLimit": 37,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 158
+        },
+        {
+          "date": "2026-03-21",
+          "count": 108
+        },
+        {
+          "date": "2026-03-22",
+          "count": 229
+        },
+        {
+          "date": "2026-03-23",
+          "count": 37
+        },
+        {
+          "date": "2026-03-24",
+          "count": 146
+        },
+        {
+          "date": "2026-03-25",
+          "count": 166
+        },
+        {
+          "date": "2026-03-26",
+          "count": 97
+        },
+        {
+          "date": "2026-03-27",
+          "count": 124
+        },
+        {
+          "date": "2026-03-28",
+          "count": 109
+        },
+        {
+          "date": "2026-03-29",
+          "count": 116
+        },
+        {
+          "date": "2026-03-30",
+          "count": 144
+        },
+        {
+          "date": "2026-03-31",
+          "count": 154
+        },
+        {
+          "date": "2026-04-01",
+          "count": 162
+        },
+        {
+          "date": "2026-04-02",
+          "count": 114
+        },
+        {
+          "date": "2026-04-03",
+          "count": 62
+        }
+      ]
+    },
+    {
+      "id": "KMC-0010",
+      "code": "KMC-0010",
+      "name": "Metal Tins - Heart Shaped (12x12x4cm) - Special Occasions",
+      "category": "Containers",
+      "price": 7.51,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 19,
+      "height": 14,
+      "depth": 11,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-25",
+      "brand": "Ardagh Group",
+      "year": 2024,
+      "material": "Metal",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-25",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-25",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 186,
+      "stockLimit": 11,
+      "stockUnit": "boxes",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 191
+        },
+        {
+          "date": "2026-03-21",
+          "count": 211
+        },
+        {
+          "date": "2026-03-22",
+          "count": 142
+        },
+        {
+          "date": "2026-03-23",
+          "count": 78
+        },
+        {
+          "date": "2026-03-24",
+          "count": 88
+        },
+        {
+          "date": "2026-03-25",
+          "count": 73
+        },
+        {
+          "date": "2026-03-26",
+          "count": 180
+        },
+        {
+          "date": "2026-03-27",
+          "count": 111
+        },
+        {
+          "date": "2026-03-28",
+          "count": 37
+        },
+        {
+          "date": "2026-03-29",
+          "count": 183
+        },
+        {
+          "date": "2026-03-30",
+          "count": 49
+        },
+        {
+          "date": "2026-03-31",
+          "count": 42
+        },
+        {
+          "date": "2026-04-01",
+          "count": 57
+        },
+        {
+          "date": "2026-04-02",
+          "count": 168
+        },
+        {
+          "date": "2026-04-03",
+          "count": 177
+        }
+      ]
+    },
+    {
+      "id": "KMC-0011",
+      "code": "KMC-0011",
+      "name": "Aluminum Foil Rolls (300m x 30cm) - Food Grade",
+      "category": "Packaging",
+      "price": 8.24,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 20,
+      "height": 15,
+      "depth": 2,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-24",
+      "brand": "Rexam",
+      "year": 2023,
+      "material": "Metal",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-24",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-24",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 181,
+      "stockLimit": 14,
+      "stockUnit": "boxes",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 121
+        },
+        {
+          "date": "2026-03-21",
+          "count": 61
+        },
+        {
+          "date": "2026-03-22",
+          "count": 176
+        },
+        {
+          "date": "2026-03-23",
+          "count": 129
+        },
+        {
+          "date": "2026-03-24",
+          "count": 35
+        },
+        {
+          "date": "2026-03-25",
+          "count": 211
+        },
+        {
+          "date": "2026-03-26",
+          "count": 133
+        },
+        {
+          "date": "2026-03-27",
+          "count": 100
+        },
+        {
+          "date": "2026-03-28",
+          "count": 156
+        },
+        {
+          "date": "2026-03-29",
+          "count": 121
+        },
+        {
+          "date": "2026-03-30",
+          "count": 137
+        },
+        {
+          "date": "2026-03-31",
+          "count": 144
+        },
+        {
+          "date": "2026-04-01",
+          "count": 91
+        },
+        {
+          "date": "2026-04-02",
+          "count": 172
+        },
+        {
+          "date": "2026-04-03",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "id": "KMC-0012",
+      "code": "KMC-0012",
+      "name": "Plastic Wrap Rolls (500m x 40cm) - PVC Free",
+      "category": "Sealing",
+      "price": 16.87,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 21,
+      "height": 16,
+      "depth": 3,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-23",
+      "brand": "WestRock",
+      "year": 2024,
+      "material": "Plastic",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-23",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-23",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 204,
+      "stockLimit": 29,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 20
+        },
+        {
+          "date": "2026-03-21",
+          "count": 125
+        },
+        {
+          "date": "2026-03-22",
+          "count": 98
+        },
+        {
+          "date": "2026-03-23",
+          "count": 177
+        },
+        {
+          "date": "2026-03-24",
+          "count": 201
+        },
+        {
+          "date": "2026-03-25",
+          "count": 24
+        },
+        {
+          "date": "2026-03-26",
+          "count": 32
+        },
+        {
+          "date": "2026-03-27",
+          "count": 204
+        },
+        {
+          "date": "2026-03-28",
+          "count": 74
+        },
+        {
+          "date": "2026-03-29",
+          "count": 180
+        },
+        {
+          "date": "2026-03-30",
+          "count": 37
+        },
+        {
+          "date": "2026-03-31",
+          "count": 187
+        },
+        {
+          "date": "2026-04-01",
+          "count": 45
+        },
+        {
+          "date": "2026-04-02",
+          "count": 192
+        },
+        {
+          "date": "2026-04-03",
+          "count": 201
+        }
+      ]
+    },
+    {
+      "id": "KMC-0013",
+      "code": "KMC-0013",
+      "name": "Heat Seal Film Rolls (200m x 50cm) - Barrier Properties",
+      "category": "Sealing",
+      "price": 15.75,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 22,
+      "height": 17,
+      "depth": 4,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "None",
+      "notes": "Bulk purchase discount applied",
+      "dateAdded": "2026-03-22",
+      "brand": "International Paper",
+      "year": 2023,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-22",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-22",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 214,
+      "stockLimit": 37,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 183
+        },
+        {
+          "date": "2026-03-21",
+          "count": 119
+        },
+        {
+          "date": "2026-03-22",
+          "count": 42
+        },
+        {
+          "date": "2026-03-23",
+          "count": 92
+        },
+        {
+          "date": "2026-03-24",
+          "count": 197
+        },
+        {
+          "date": "2026-03-25",
+          "count": 97
+        },
+        {
+          "date": "2026-03-26",
+          "count": 92
+        },
+        {
+          "date": "2026-03-27",
+          "count": 191
+        },
+        {
+          "date": "2026-03-28",
+          "count": 224
+        },
+        {
+          "date": "2026-03-29",
+          "count": 66
+        },
+        {
+          "date": "2026-03-30",
+          "count": 84
+        },
+        {
+          "date": "2026-03-31",
+          "count": 124
+        },
+        {
+          "date": "2026-04-01",
+          "count": 70
+        },
+        {
+          "date": "2026-04-02",
+          "count": 173
+        },
+        {
+          "date": "2026-04-03",
+          "count": 72
+        }
+      ]
+    },
+    {
+      "id": "KMC-0014",
+      "code": "KMC-0014",
+      "name": "Shrink Wrap Film (100m x 60cm) - High Clarity",
+      "category": "Sealing",
+      "price": 9.17,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 23,
+      "height": 18,
+      "depth": 5,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-21",
+      "brand": "Stora Enso",
+      "year": 2024,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-21",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-21",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 66,
+      "stockLimit": 12,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 68
+        },
+        {
+          "date": "2026-03-21",
+          "count": 136
+        },
+        {
+          "date": "2026-03-22",
+          "count": 26
+        },
+        {
+          "date": "2026-03-23",
+          "count": 63
+        },
+        {
+          "date": "2026-03-24",
+          "count": 222
+        },
+        {
+          "date": "2026-03-25",
+          "count": 106
+        },
+        {
+          "date": "2026-03-26",
+          "count": 129
+        },
+        {
+          "date": "2026-03-27",
+          "count": 185
+        },
+        {
+          "date": "2026-03-28",
+          "count": 133
+        },
+        {
+          "date": "2026-03-29",
+          "count": 111
+        },
+        {
+          "date": "2026-03-30",
+          "count": 132
+        },
+        {
+          "date": "2026-03-31",
+          "count": 95
+        },
+        {
+          "date": "2026-04-01",
+          "count": 141
+        },
+        {
+          "date": "2026-04-02",
+          "count": 15
+        },
+        {
+          "date": "2026-04-03",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "id": "KMC-0015",
+      "code": "KMC-0015",
+      "name": "Adhesive Tape - Clear (50mm x 66m) - Food Safe",
+      "category": "Sealing",
+      "price": 11.91,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 24,
+      "height": 19,
+      "depth": 6,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-20",
+      "brand": "UPM",
+      "year": 2023,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-20",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-20",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 39,
+      "stockLimit": 33,
+      "stockUnit": "units",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 144
+        },
+        {
+          "date": "2026-03-21",
+          "count": 155
+        },
+        {
+          "date": "2026-03-22",
+          "count": 76
+        },
+        {
+          "date": "2026-03-23",
+          "count": 225
+        },
+        {
+          "date": "2026-03-24",
+          "count": 155
+        },
+        {
+          "date": "2026-03-25",
+          "count": 91
+        },
+        {
+          "date": "2026-03-26",
+          "count": 182
+        },
+        {
+          "date": "2026-03-27",
+          "count": 66
+        },
+        {
+          "date": "2026-03-28",
+          "count": 157
+        },
+        {
+          "date": "2026-03-29",
+          "count": 164
+        },
+        {
+          "date": "2026-03-30",
+          "count": 9
+        },
+        {
+          "date": "2026-03-31",
+          "count": 166
+        },
+        {
+          "date": "2026-04-01",
+          "count": 104
+        },
+        {
+          "date": "2026-04-02",
+          "count": 16
+        },
+        {
+          "date": "2026-04-03",
+          "count": 94
+        }
+      ]
+    },
+    {
+      "id": "KMC-0016",
+      "code": "KMC-0016",
+      "name": "Adhesive Tape - Brown (50mm x 66m) - Kraft Paper",
+      "category": "Sealing",
+      "price": 5.1,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 25,
+      "height": 20,
+      "depth": 7,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-19",
+      "brand": "Billerud",
+      "year": 2024,
+      "material": "Paper/Cardboard",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-19",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-19",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 76,
+      "stockLimit": 38,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 80
+        },
+        {
+          "date": "2026-03-21",
+          "count": 62
+        },
+        {
+          "date": "2026-03-22",
+          "count": 186
+        },
+        {
+          "date": "2026-03-23",
+          "count": 191
+        },
+        {
+          "date": "2026-03-24",
+          "count": 188
+        },
+        {
+          "date": "2026-03-25",
+          "count": 120
+        },
+        {
+          "date": "2026-03-26",
+          "count": 164
+        },
+        {
+          "date": "2026-03-27",
+          "count": 154
+        },
+        {
+          "date": "2026-03-28",
+          "count": 64
+        },
+        {
+          "date": "2026-03-29",
+          "count": 221
+        },
+        {
+          "date": "2026-03-30",
+          "count": 203
+        },
+        {
+          "date": "2026-03-31",
+          "count": 197
+        },
+        {
+          "date": "2026-04-01",
+          "count": 167
+        },
+        {
+          "date": "2026-04-02",
+          "count": 221
+        },
+        {
+          "date": "2026-04-03",
+          "count": 121
+        }
+      ]
+    },
+    {
+      "id": "KMC-0017",
+      "code": "KMC-0017",
+      "name": "Hot Melt Glue Sticks (11mm x 200mm) - Food Contact Approved",
+      "category": "Sealing",
+      "price": 22.98,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 26,
+      "height": 21,
+      "depth": 8,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "Slight wear on edges",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-18",
+      "brand": "Mayr-Melnhof",
+      "year": 2023,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-18",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-18",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 188,
+      "stockLimit": 11,
+      "stockUnit": "units",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 107
+        },
+        {
+          "date": "2026-03-21",
+          "count": 8
+        },
+        {
+          "date": "2026-03-22",
+          "count": 85
+        },
+        {
+          "date": "2026-03-23",
+          "count": 65
+        },
+        {
+          "date": "2026-03-24",
+          "count": 93
+        },
+        {
+          "date": "2026-03-25",
+          "count": 35
+        },
+        {
+          "date": "2026-03-26",
+          "count": 123
+        },
+        {
+          "date": "2026-03-27",
+          "count": 76
+        },
+        {
+          "date": "2026-03-28",
+          "count": 80
+        },
+        {
+          "date": "2026-03-29",
+          "count": 151
+        },
+        {
+          "date": "2026-03-30",
+          "count": 48
+        },
+        {
+          "date": "2026-03-31",
+          "count": 154
+        },
+        {
+          "date": "2026-04-01",
+          "count": 51
+        },
+        {
+          "date": "2026-04-02",
+          "count": 178
+        },
+        {
+          "date": "2026-04-03",
+          "count": 161
+        }
+      ]
+    },
+    {
+      "id": "KMC-0018",
+      "code": "KMC-0018",
+      "name": "Sealing Wax - Red (500g) - Traditional Finish",
+      "category": "Sealing",
+      "price": 21.24,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 27,
+      "height": 22,
+      "depth": 9,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-17",
+      "brand": "Ahlstrom",
+      "year": 2024,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-17",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-17",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 70,
+      "stockLimit": 37,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 147
+        },
+        {
+          "date": "2026-03-21",
+          "count": 172
+        },
+        {
+          "date": "2026-03-22",
+          "count": 125
+        },
+        {
+          "date": "2026-03-23",
+          "count": 61
+        },
+        {
+          "date": "2026-03-24",
+          "count": 56
+        },
+        {
+          "date": "2026-03-25",
+          "count": 24
+        },
+        {
+          "date": "2026-03-26",
+          "count": 90
+        },
+        {
+          "date": "2026-03-27",
+          "count": 95
+        },
+        {
+          "date": "2026-03-28",
+          "count": 28
+        },
+        {
+          "date": "2026-03-29",
+          "count": 165
+        },
+        {
+          "date": "2026-03-30",
+          "count": 85
+        },
+        {
+          "date": "2026-03-31",
+          "count": 104
+        },
+        {
+          "date": "2026-04-01",
+          "count": 107
+        },
+        {
+          "date": "2026-04-02",
+          "count": 162
+        },
+        {
+          "date": "2026-04-03",
+          "count": 156
+        }
+      ]
+    },
+    {
+      "id": "KMC-0019",
+      "code": "KMC-0019",
+      "name": "Sealing Wax - Gold (500g) - Premium Look",
+      "category": "Sealing",
+      "price": 12.56,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 28,
+      "height": 23,
+      "depth": 10,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Bulk purchase discount applied",
+      "dateAdded": "2026-03-16",
+      "brand": "Metsä Board",
+      "year": 2023,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-16",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-16",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 198,
+      "stockLimit": 23,
+      "stockUnit": "sheets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 69
+        },
+        {
+          "date": "2026-03-21",
+          "count": 6
+        },
+        {
+          "date": "2026-03-22",
+          "count": 165
+        },
+        {
+          "date": "2026-03-23",
+          "count": 93
+        },
+        {
+          "date": "2026-03-24",
+          "count": 207
+        },
+        {
+          "date": "2026-03-25",
+          "count": 197
+        },
+        {
+          "date": "2026-03-26",
+          "count": 181
+        },
+        {
+          "date": "2026-03-27",
+          "count": 121
+        },
+        {
+          "date": "2026-03-28",
+          "count": 83
+        },
+        {
+          "date": "2026-03-29",
+          "count": 171
+        },
+        {
+          "date": "2026-03-30",
+          "count": 142
+        },
+        {
+          "date": "2026-03-31",
+          "count": 60
+        },
+        {
+          "date": "2026-04-01",
+          "count": 208
+        },
+        {
+          "date": "2026-04-02",
+          "count": 121
+        },
+        {
+          "date": "2026-04-03",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "id": "KMC-0020",
+      "code": "KMC-0020",
+      "name": "Self-Adhesive Labels (50x30mm) - Ingredient Declaration",
+      "category": "Labels",
+      "price": 11.08,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 29,
+      "height": 24,
+      "depth": 11,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-15",
+      "brand": "Klabin",
+      "year": 2024,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-15",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-15",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 127,
+      "stockLimit": 20,
+      "stockUnit": "units",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 185
+        },
+        {
+          "date": "2026-03-21",
+          "count": 45
+        },
+        {
+          "date": "2026-03-22",
+          "count": 66
+        },
+        {
+          "date": "2026-03-23",
+          "count": 133
+        },
+        {
+          "date": "2026-03-24",
+          "count": 194
+        },
+        {
+          "date": "2026-03-25",
+          "count": 78
+        },
+        {
+          "date": "2026-03-26",
+          "count": 202
+        },
+        {
+          "date": "2026-03-27",
+          "count": 133
+        },
+        {
+          "date": "2026-03-28",
+          "count": 160
+        },
+        {
+          "date": "2026-03-29",
+          "count": 150
+        },
+        {
+          "date": "2026-03-30",
+          "count": 118
+        },
+        {
+          "date": "2026-03-31",
+          "count": 71
+        },
+        {
+          "date": "2026-04-01",
+          "count": 70
+        },
+        {
+          "date": "2026-04-02",
+          "count": 130
+        },
+        {
+          "date": "2026-04-03",
+          "count": 58
+        }
+      ]
+    },
+    {
+      "id": "KMC-0021",
+      "code": "KMC-0021",
+      "name": "Self-Adhesive Labels (80x50mm) - Brand Logo",
+      "category": "Labels",
+      "price": 18.78,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 30,
+      "height": 5,
+      "depth": 2,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-14",
+      "brand": "Belgian Packaging Co",
+      "year": 2023,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-14",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-14",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 98,
+      "stockLimit": 22,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 187
+        },
+        {
+          "date": "2026-03-21",
+          "count": 162
+        },
+        {
+          "date": "2026-03-22",
+          "count": 28
+        },
+        {
+          "date": "2026-03-23",
+          "count": 138
+        },
+        {
+          "date": "2026-03-24",
+          "count": 134
+        },
+        {
+          "date": "2026-03-25",
+          "count": 100
+        },
+        {
+          "date": "2026-03-26",
+          "count": 30
+        },
+        {
+          "date": "2026-03-27",
+          "count": 28
+        },
+        {
+          "date": "2026-03-28",
+          "count": 76
+        },
+        {
+          "date": "2026-03-29",
+          "count": 37
+        },
+        {
+          "date": "2026-03-30",
+          "count": 83
+        },
+        {
+          "date": "2026-03-31",
+          "count": 114
+        },
+        {
+          "date": "2026-04-01",
+          "count": 188
+        },
+        {
+          "date": "2026-04-02",
+          "count": 46
+        },
+        {
+          "date": "2026-04-03",
+          "count": 93
+        }
+      ]
+    },
+    {
+      "id": "KMC-0022",
+      "code": "KMC-0022",
+      "name": "Self-Adhesive Labels (40x20mm) - Best Before Date",
+      "category": "Labels",
+      "price": 10.01,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 31,
+      "height": 6,
+      "depth": 3,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-13",
+      "brand": "Packaging Solutions BE",
+      "year": 2024,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-13",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-13",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 56,
+      "stockLimit": 36,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 220
+        },
+        {
+          "date": "2026-03-21",
+          "count": 72
+        },
+        {
+          "date": "2026-03-22",
+          "count": 181
+        },
+        {
+          "date": "2026-03-23",
+          "count": 95
+        },
+        {
+          "date": "2026-03-24",
+          "count": 132
+        },
+        {
+          "date": "2026-03-25",
+          "count": 145
+        },
+        {
+          "date": "2026-03-26",
+          "count": 130
+        },
+        {
+          "date": "2026-03-27",
+          "count": 202
+        },
+        {
+          "date": "2026-03-28",
+          "count": 179
+        },
+        {
+          "date": "2026-03-29",
+          "count": 13
+        },
+        {
+          "date": "2026-03-30",
+          "count": 113
+        },
+        {
+          "date": "2026-03-31",
+          "count": 135
+        },
+        {
+          "date": "2026-04-01",
+          "count": 73
+        },
+        {
+          "date": "2026-04-02",
+          "count": 186
+        },
+        {
+          "date": "2026-04-03",
+          "count": 158
+        }
+      ]
+    },
+    {
+      "id": "KMC-0023",
+      "code": "KMC-0023",
+      "name": "Self-Adhesive Labels (60x40mm) - Batch Number",
+      "category": "Labels",
+      "price": 8.95,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 32,
+      "height": 7,
+      "depth": 4,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-12",
+      "brand": "Flemish Pack",
+      "year": 2023,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-12",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-12",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 121,
+      "stockLimit": 23,
+      "stockUnit": "sheets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 34
+        },
+        {
+          "date": "2026-03-21",
+          "count": 11
+        },
+        {
+          "date": "2026-03-22",
+          "count": 77
+        },
+        {
+          "date": "2026-03-23",
+          "count": 22
+        },
+        {
+          "date": "2026-03-24",
+          "count": 50
+        },
+        {
+          "date": "2026-03-25",
+          "count": 48
+        },
+        {
+          "date": "2026-03-26",
+          "count": 140
+        },
+        {
+          "date": "2026-03-27",
+          "count": 157
+        },
+        {
+          "date": "2026-03-28",
+          "count": 193
+        },
+        {
+          "date": "2026-03-29",
+          "count": 32
+        },
+        {
+          "date": "2026-03-30",
+          "count": 46
+        },
+        {
+          "date": "2026-03-31",
+          "count": 52
+        },
+        {
+          "date": "2026-04-01",
+          "count": 147
+        },
+        {
+          "date": "2026-04-02",
+          "count": 180
+        },
+        {
+          "date": "2026-04-03",
+          "count": 122
+        }
+      ]
+    },
+    {
+      "id": "KMC-0024",
+      "code": "KMC-0024",
+      "name": "Holographic Stickers (25mm diameter) - Security Seals",
+      "category": "Sealing",
+      "price": 22.42,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 33,
+      "height": 8,
+      "depth": 5,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-11",
+      "brand": "Brussels Wrap & Seal",
+      "year": 2024,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-11",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-11",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 203,
+      "stockLimit": 10,
+      "stockUnit": "sheets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 87
+        },
+        {
+          "date": "2026-03-21",
+          "count": 105
+        },
+        {
+          "date": "2026-03-22",
+          "count": 172
+        },
+        {
+          "date": "2026-03-23",
+          "count": 26
+        },
+        {
+          "date": "2026-03-24",
+          "count": 49
+        },
+        {
+          "date": "2026-03-25",
+          "count": 163
+        },
+        {
+          "date": "2026-03-26",
+          "count": 113
+        },
+        {
+          "date": "2026-03-27",
+          "count": 193
+        },
+        {
+          "date": "2026-03-28",
+          "count": 55
+        },
+        {
+          "date": "2026-03-29",
+          "count": 143
+        },
+        {
+          "date": "2026-03-30",
+          "count": 23
+        },
+        {
+          "date": "2026-03-31",
+          "count": 34
+        },
+        {
+          "date": "2026-04-01",
+          "count": 132
+        },
+        {
+          "date": "2026-04-02",
+          "count": 206
+        },
+        {
+          "date": "2026-04-03",
+          "count": 71
+        }
+      ]
+    },
+    {
+      "id": "KMC-0025",
+      "code": "KMC-0025",
+      "name": "Tamper-Evident Seals (20x15mm) - Pull Tab",
+      "category": "Sealing",
+      "price": 8.2,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 34,
+      "height": 9,
+      "depth": 6,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "Slight wear on edges",
+      "notes": "Bulk purchase discount applied",
+      "dateAdded": "2026-03-10",
+      "brand": "Antwerp Box Makers",
+      "year": 2023,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-10",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-10",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 176,
+      "stockLimit": 30,
+      "stockUnit": "units",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 52
+        },
+        {
+          "date": "2026-03-21",
+          "count": 105
+        },
+        {
+          "date": "2026-03-22",
+          "count": 102
+        },
+        {
+          "date": "2026-03-23",
+          "count": 131
+        },
+        {
+          "date": "2026-03-24",
+          "count": 89
+        },
+        {
+          "date": "2026-03-25",
+          "count": 23
+        },
+        {
+          "date": "2026-03-26",
+          "count": 220
+        },
+        {
+          "date": "2026-03-27",
+          "count": 81
+        },
+        {
+          "date": "2026-03-28",
+          "count": 132
+        },
+        {
+          "date": "2026-03-29",
+          "count": 47
+        },
+        {
+          "date": "2026-03-30",
+          "count": 172
+        },
+        {
+          "date": "2026-03-31",
+          "count": 23
+        },
+        {
+          "date": "2026-04-01",
+          "count": 67
+        },
+        {
+          "date": "2026-04-02",
+          "count": 55
+        },
+        {
+          "date": "2026-04-03",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "id": "KMC-0026",
+      "code": "KMC-0026",
+      "name": "Barcode Labels (30x20mm) - EAN-13 Format",
+      "category": "Labels",
+      "price": 11.41,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 35,
+      "height": 10,
+      "depth": 7,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-09",
+      "brand": "Amcor Belgium",
+      "year": 2024,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-09",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-09",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 154,
+      "stockLimit": 29,
+      "stockUnit": "sheets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 182
+        },
+        {
+          "date": "2026-03-21",
+          "count": 132
+        },
+        {
+          "date": "2026-03-22",
+          "count": 157
+        },
+        {
+          "date": "2026-03-23",
+          "count": 120
+        },
+        {
+          "date": "2026-03-24",
+          "count": 146
+        },
+        {
+          "date": "2026-03-25",
+          "count": 201
+        },
+        {
+          "date": "2026-03-26",
+          "count": 33
+        },
+        {
+          "date": "2026-03-27",
+          "count": 81
+        },
+        {
+          "date": "2026-03-28",
+          "count": 81
+        },
+        {
+          "date": "2026-03-29",
+          "count": 56
+        },
+        {
+          "date": "2026-03-30",
+          "count": 203
+        },
+        {
+          "date": "2026-03-31",
+          "count": 63
+        },
+        {
+          "date": "2026-04-01",
+          "count": 56
+        },
+        {
+          "date": "2026-04-02",
+          "count": 143
+        },
+        {
+          "date": "2026-04-03",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "id": "KMC-0027",
+      "code": "KMC-0027",
+      "name": "QR Code Labels (25x25mm) - Digital Integration",
+      "category": "Labels",
+      "price": 24.72,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 36,
+      "height": 11,
+      "depth": 8,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-08",
+      "brand": "Huhtamaki Belgium",
+      "year": 2023,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-08",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-08",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 125,
+      "stockLimit": 32,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 126
+        },
+        {
+          "date": "2026-03-21",
+          "count": 63
+        },
+        {
+          "date": "2026-03-22",
+          "count": 104
+        },
+        {
+          "date": "2026-03-23",
+          "count": 164
+        },
+        {
+          "date": "2026-03-24",
+          "count": 159
+        },
+        {
+          "date": "2026-03-25",
+          "count": 176
+        },
+        {
+          "date": "2026-03-26",
+          "count": 98
+        },
+        {
+          "date": "2026-03-27",
+          "count": 91
+        },
+        {
+          "date": "2026-03-28",
+          "count": 108
+        },
+        {
+          "date": "2026-03-29",
+          "count": 18
+        },
+        {
+          "date": "2026-03-30",
+          "count": 226
+        },
+        {
+          "date": "2026-03-31",
+          "count": 152
+        },
+        {
+          "date": "2026-04-01",
+          "count": 50
+        },
+        {
+          "date": "2026-04-02",
+          "count": 226
+        },
+        {
+          "date": "2026-04-03",
+          "count": 67
+        }
+      ]
+    },
+    {
+      "id": "KMC-0028",
+      "code": "KMC-0028",
+      "name": "Bubble Wrap Sheets (50x100cm x 5mm) - Anti-Static",
+      "category": "Sealing",
+      "price": 15.46,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 37,
+      "height": 12,
+      "depth": 9,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-07",
+      "brand": "Smurfit Kappa",
+      "year": 2024,
+      "material": "Foam/Plastic",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-07",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-07",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 206,
+      "stockLimit": 15,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 108
+        },
+        {
+          "date": "2026-03-21",
+          "count": 148
+        },
+        {
+          "date": "2026-03-22",
+          "count": 130
+        },
+        {
+          "date": "2026-03-23",
+          "count": 104
+        },
+        {
+          "date": "2026-03-24",
+          "count": 142
+        },
+        {
+          "date": "2026-03-25",
+          "count": 207
+        },
+        {
+          "date": "2026-03-26",
+          "count": 136
+        },
+        {
+          "date": "2026-03-27",
+          "count": 147
+        },
+        {
+          "date": "2026-03-28",
+          "count": 60
+        },
+        {
+          "date": "2026-03-29",
+          "count": 225
+        },
+        {
+          "date": "2026-03-30",
+          "count": 197
+        },
+        {
+          "date": "2026-03-31",
+          "count": 143
+        },
+        {
+          "date": "2026-04-01",
+          "count": 47
+        },
+        {
+          "date": "2026-04-02",
+          "count": 97
+        },
+        {
+          "date": "2026-04-03",
+          "count": 153
+        }
+      ]
+    },
+    {
+      "id": "KMC-0029",
+      "code": "KMC-0029",
+      "name": "Foam Padding Sheets (40x60cm x 2mm) - Recyclable",
+      "category": "Protection",
+      "price": 11.57,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 38,
+      "height": 13,
+      "depth": 10,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-06",
+      "brand": "DS Smith Packaging",
+      "year": 2023,
+      "material": "Foam/Plastic",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-06",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-06",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 205,
+      "stockLimit": 39,
+      "stockUnit": "units",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 188
+        },
+        {
+          "date": "2026-03-21",
+          "count": 78
+        },
+        {
+          "date": "2026-03-22",
+          "count": 148
+        },
+        {
+          "date": "2026-03-23",
+          "count": 77
+        },
+        {
+          "date": "2026-03-24",
+          "count": 53
+        },
+        {
+          "date": "2026-03-25",
+          "count": 203
+        },
+        {
+          "date": "2026-03-26",
+          "count": 154
+        },
+        {
+          "date": "2026-03-27",
+          "count": 104
+        },
+        {
+          "date": "2026-03-28",
+          "count": 107
+        },
+        {
+          "date": "2026-03-29",
+          "count": 157
+        },
+        {
+          "date": "2026-03-30",
+          "count": 185
+        },
+        {
+          "date": "2026-03-31",
+          "count": 218
+        },
+        {
+          "date": "2026-04-01",
+          "count": 188
+        },
+        {
+          "date": "2026-04-02",
+          "count": 96
+        },
+        {
+          "date": "2026-04-03",
+          "count": 155
+        }
+      ]
+    },
+    {
+      "id": "KMC-0030",
+      "code": "KMC-0030",
+      "name": "Corrugated Cardboard Sheets (100x70cm) - Double Wall",
+      "category": "Packaging",
+      "price": 2.04,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 39,
+      "height": 14,
+      "depth": 11,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-05",
+      "brand": "Mondi Group",
+      "year": 2024,
+      "material": "Paper/Cardboard",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-05",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-05",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 161,
+      "stockLimit": 15,
+      "stockUnit": "sheets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 89
+        },
+        {
+          "date": "2026-03-21",
+          "count": 180
+        },
+        {
+          "date": "2026-03-22",
+          "count": 78
+        },
+        {
+          "date": "2026-03-23",
+          "count": 219
+        },
+        {
+          "date": "2026-03-24",
+          "count": 192
+        },
+        {
+          "date": "2026-03-25",
+          "count": 94
+        },
+        {
+          "date": "2026-03-26",
+          "count": 42
+        },
+        {
+          "date": "2026-03-27",
+          "count": 196
+        },
+        {
+          "date": "2026-03-28",
+          "count": 156
+        },
+        {
+          "date": "2026-03-29",
+          "count": 29
+        },
+        {
+          "date": "2026-03-30",
+          "count": 142
+        },
+        {
+          "date": "2026-03-31",
+          "count": 138
+        },
+        {
+          "date": "2026-04-01",
+          "count": 187
+        },
+        {
+          "date": "2026-04-02",
+          "count": 171
+        },
+        {
+          "date": "2026-04-03",
+          "count": 176
+        }
+      ]
+    },
+    {
+      "id": "KMC-0031",
+      "code": "KMC-0031",
+      "name": "Void Fill Peanuts (25L bags) - Biodegradable",
+      "category": "Packaging",
+      "price": 23.96,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 10,
+      "height": 15,
+      "depth": 2,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Bulk purchase discount applied",
+      "dateAdded": "2026-03-04",
+      "brand": "Tetra Pak",
+      "year": 2023,
+      "material": "Bio-based",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-04",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-04",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 93,
+      "stockLimit": 29,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 70
+        },
+        {
+          "date": "2026-03-21",
+          "count": 101
+        },
+        {
+          "date": "2026-03-22",
+          "count": 135
+        },
+        {
+          "date": "2026-03-23",
+          "count": 93
+        },
+        {
+          "date": "2026-03-24",
+          "count": 41
+        },
+        {
+          "date": "2026-03-25",
+          "count": 185
+        },
+        {
+          "date": "2026-03-26",
+          "count": 131
+        },
+        {
+          "date": "2026-03-27",
+          "count": 223
+        },
+        {
+          "date": "2026-03-28",
+          "count": 181
+        },
+        {
+          "date": "2026-03-29",
+          "count": 82
+        },
+        {
+          "date": "2026-03-30",
+          "count": 15
+        },
+        {
+          "date": "2026-03-31",
+          "count": 62
+        },
+        {
+          "date": "2026-04-01",
+          "count": 193
+        },
+        {
+          "date": "2026-04-02",
+          "count": 73
+        },
+        {
+          "date": "2026-04-03",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "KMC-0032",
+      "code": "KMC-0032",
+      "name": "Air Pillows (20x30cm) - Inflatable Protection",
+      "category": "Protection",
+      "price": 17.3,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 11,
+      "height": 16,
+      "depth": 3,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-03",
+      "brand": "SIG Combibloc",
+      "year": 2024,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-03",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-03",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 51,
+      "stockLimit": 24,
+      "stockUnit": "boxes",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 73
+        },
+        {
+          "date": "2026-03-21",
+          "count": 61
+        },
+        {
+          "date": "2026-03-22",
+          "count": 112
+        },
+        {
+          "date": "2026-03-23",
+          "count": 205
+        },
+        {
+          "date": "2026-03-24",
+          "count": 188
+        },
+        {
+          "date": "2026-03-25",
+          "count": 200
+        },
+        {
+          "date": "2026-03-26",
+          "count": 161
+        },
+        {
+          "date": "2026-03-27",
+          "count": 173
+        },
+        {
+          "date": "2026-03-28",
+          "count": 55
+        },
+        {
+          "date": "2026-03-29",
+          "count": 158
+        },
+        {
+          "date": "2026-03-30",
+          "count": 105
+        },
+        {
+          "date": "2026-03-31",
+          "count": 54
+        },
+        {
+          "date": "2026-04-01",
+          "count": 34
+        },
+        {
+          "date": "2026-04-02",
+          "count": 40
+        },
+        {
+          "date": "2026-04-03",
+          "count": 111
+        }
+      ]
+    },
+    {
+      "id": "KMC-0033",
+      "code": "KMC-0033",
+      "name": "Corner Protectors (5x5x80cm) - Cardboard",
+      "category": "Protection",
+      "price": 18.32,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 12,
+      "height": 17,
+      "depth": 4,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "Slight wear on edges",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-02",
+      "brand": "Crown Holdings",
+      "year": 2023,
+      "material": "Paper/Cardboard",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-02",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-02",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 95,
+      "stockLimit": 24,
+      "stockUnit": "boxes",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 102
+        },
+        {
+          "date": "2026-03-21",
+          "count": 189
+        },
+        {
+          "date": "2026-03-22",
+          "count": 157
+        },
+        {
+          "date": "2026-03-23",
+          "count": 159
+        },
+        {
+          "date": "2026-03-24",
+          "count": 105
+        },
+        {
+          "date": "2026-03-25",
+          "count": 81
+        },
+        {
+          "date": "2026-03-26",
+          "count": 55
+        },
+        {
+          "date": "2026-03-27",
+          "count": 61
+        },
+        {
+          "date": "2026-03-28",
+          "count": 42
+        },
+        {
+          "date": "2026-03-29",
+          "count": 206
+        },
+        {
+          "date": "2026-03-30",
+          "count": 222
+        },
+        {
+          "date": "2026-03-31",
+          "count": 43
+        },
+        {
+          "date": "2026-04-01",
+          "count": 122
+        },
+        {
+          "date": "2026-04-02",
+          "count": 162
+        },
+        {
+          "date": "2026-04-03",
+          "count": 105
+        }
+      ]
+    },
+    {
+      "id": "KMC-0034",
+      "code": "KMC-0034",
+      "name": "Edge Protectors (2x2x100cm) - Plastic",
+      "category": "Protection",
+      "price": 19.77,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 13,
+      "height": 18,
+      "depth": 5,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-03-01",
+      "brand": "Ball Corporation",
+      "year": 2024,
+      "material": "Plastic",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-03-01",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-03-01",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 25,
+      "stockLimit": 24,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 223
+        },
+        {
+          "date": "2026-03-21",
+          "count": 170
+        },
+        {
+          "date": "2026-03-22",
+          "count": 199
+        },
+        {
+          "date": "2026-03-23",
+          "count": 168
+        },
+        {
+          "date": "2026-03-24",
+          "count": 40
+        },
+        {
+          "date": "2026-03-25",
+          "count": 125
+        },
+        {
+          "date": "2026-03-26",
+          "count": 72
+        },
+        {
+          "date": "2026-03-27",
+          "count": 26
+        },
+        {
+          "date": "2026-03-28",
+          "count": 28
+        },
+        {
+          "date": "2026-03-29",
+          "count": 64
+        },
+        {
+          "date": "2026-03-30",
+          "count": 33
+        },
+        {
+          "date": "2026-03-31",
+          "count": 78
+        },
+        {
+          "date": "2026-04-01",
+          "count": 180
+        },
+        {
+          "date": "2026-04-02",
+          "count": 127
+        },
+        {
+          "date": "2026-04-03",
+          "count": 126
+        }
+      ]
+    },
+    {
+      "id": "KMC-0035",
+      "code": "KMC-0035",
+      "name": "Tissue Paper Sheets (50x70cm) - Colored Assortment",
+      "category": "Packaging",
+      "price": 13.73,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 14,
+      "height": 19,
+      "depth": 6,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-28",
+      "brand": "Ardagh Group",
+      "year": 2023,
+      "material": "Paper/Cardboard",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-28",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-28",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 84,
+      "stockLimit": 22,
+      "stockUnit": "units",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 183
+        },
+        {
+          "date": "2026-03-21",
+          "count": 181
+        },
+        {
+          "date": "2026-03-22",
+          "count": 75
+        },
+        {
+          "date": "2026-03-23",
+          "count": 223
+        },
+        {
+          "date": "2026-03-24",
+          "count": 50
+        },
+        {
+          "date": "2026-03-25",
+          "count": 161
+        },
+        {
+          "date": "2026-03-26",
+          "count": 90
+        },
+        {
+          "date": "2026-03-27",
+          "count": 153
+        },
+        {
+          "date": "2026-03-28",
+          "count": 102
+        },
+        {
+          "date": "2026-03-29",
+          "count": 40
+        },
+        {
+          "date": "2026-03-30",
+          "count": 72
+        },
+        {
+          "date": "2026-03-31",
+          "count": 160
+        },
+        {
+          "date": "2026-04-01",
+          "count": 83
+        },
+        {
+          "date": "2026-04-02",
+          "count": 110
+        },
+        {
+          "date": "2026-04-03",
+          "count": 148
+        }
+      ]
+    },
+    {
+      "id": "KMC-0036",
+      "code": "KMC-0036",
+      "name": "Chocolate Bar Wrappers (20x10cm) - Aluminum Lined",
+      "category": "Sealing",
+      "price": 2.52,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 15,
+      "height": 20,
+      "depth": 7,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-27",
+      "brand": "Rexam",
+      "year": 2024,
+      "material": "Metal",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-27",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-27",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 48,
+      "stockLimit": 36,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 42
+        },
+        {
+          "date": "2026-03-21",
+          "count": 170
+        },
+        {
+          "date": "2026-03-22",
+          "count": 191
+        },
+        {
+          "date": "2026-03-23",
+          "count": 66
+        },
+        {
+          "date": "2026-03-24",
+          "count": 44
+        },
+        {
+          "date": "2026-03-25",
+          "count": 73
+        },
+        {
+          "date": "2026-03-26",
+          "count": 76
+        },
+        {
+          "date": "2026-03-27",
+          "count": 47
+        },
+        {
+          "date": "2026-03-28",
+          "count": 175
+        },
+        {
+          "date": "2026-03-29",
+          "count": 86
+        },
+        {
+          "date": "2026-03-30",
+          "count": 56
+        },
+        {
+          "date": "2026-03-31",
+          "count": 89
+        },
+        {
+          "date": "2026-04-01",
+          "count": 150
+        },
+        {
+          "date": "2026-04-02",
+          "count": 146
+        },
+        {
+          "date": "2026-04-03",
+          "count": 154
+        }
+      ]
+    },
+    {
+      "id": "KMC-0037",
+      "code": "KMC-0037",
+      "name": "Praline Cups (4cm diameter) - Paper Based",
+      "category": "Containers",
+      "price": 7.19,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 16,
+      "height": 21,
+      "depth": 8,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "None",
+      "notes": "Bulk purchase discount applied",
+      "dateAdded": "2026-02-26",
+      "brand": "WestRock",
+      "year": 2023,
+      "material": "Paper/Cardboard",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-26",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-26",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 46,
+      "stockLimit": 27,
+      "stockUnit": "units",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 178
+        },
+        {
+          "date": "2026-03-21",
+          "count": 58
+        },
+        {
+          "date": "2026-03-22",
+          "count": 174
+        },
+        {
+          "date": "2026-03-23",
+          "count": 226
+        },
+        {
+          "date": "2026-03-24",
+          "count": 215
+        },
+        {
+          "date": "2026-03-25",
+          "count": 90
+        },
+        {
+          "date": "2026-03-26",
+          "count": 90
+        },
+        {
+          "date": "2026-03-27",
+          "count": 85
+        },
+        {
+          "date": "2026-03-28",
+          "count": 68
+        },
+        {
+          "date": "2026-03-29",
+          "count": 169
+        },
+        {
+          "date": "2026-03-30",
+          "count": 91
+        },
+        {
+          "date": "2026-03-31",
+          "count": 44
+        },
+        {
+          "date": "2026-04-01",
+          "count": 106
+        },
+        {
+          "date": "2026-04-02",
+          "count": 161
+        },
+        {
+          "date": "2026-04-03",
+          "count": 196
+        }
+      ]
+    },
+    {
+      "id": "KMC-0038",
+      "code": "KMC-0038",
+      "name": "Box Liners - Wax Paper (25x35cm) - Grease Resistant",
+      "category": "Containers",
+      "price": 7.6,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 17,
+      "height": 22,
+      "depth": 9,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-25",
+      "brand": "International Paper",
+      "year": 2024,
+      "material": "Paper/Cardboard",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-25",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-25",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 151,
+      "stockLimit": 22,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 158
+        },
+        {
+          "date": "2026-03-21",
+          "count": 72
+        },
+        {
+          "date": "2026-03-22",
+          "count": 73
+        },
+        {
+          "date": "2026-03-23",
+          "count": 79
+        },
+        {
+          "date": "2026-03-24",
+          "count": 41
+        },
+        {
+          "date": "2026-03-25",
+          "count": 132
+        },
+        {
+          "date": "2026-03-26",
+          "count": 193
+        },
+        {
+          "date": "2026-03-27",
+          "count": 149
+        },
+        {
+          "date": "2026-03-28",
+          "count": 23
+        },
+        {
+          "date": "2026-03-29",
+          "count": 185
+        },
+        {
+          "date": "2026-03-30",
+          "count": 69
+        },
+        {
+          "date": "2026-03-31",
+          "count": 124
+        },
+        {
+          "date": "2026-04-01",
+          "count": 139
+        },
+        {
+          "date": "2026-04-02",
+          "count": 197
+        },
+        {
+          "date": "2026-04-03",
+          "count": 135
+        }
+      ]
+    },
+    {
+      "id": "KMC-0039",
+      "code": "KMC-0039",
+      "name": "Box Liners - Aluminum Foil (20x30cm) - Light Barrier",
+      "category": "Containers",
+      "price": 3.5,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 18,
+      "height": 23,
+      "depth": 10,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-24",
+      "brand": "Stora Enso",
+      "year": 2023,
+      "material": "Metal",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-24",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-24",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 205,
+      "stockLimit": 19,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 19
+        },
+        {
+          "date": "2026-03-21",
+          "count": 225
+        },
+        {
+          "date": "2026-03-22",
+          "count": 175
+        },
+        {
+          "date": "2026-03-23",
+          "count": 215
+        },
+        {
+          "date": "2026-03-24",
+          "count": 136
+        },
+        {
+          "date": "2026-03-25",
+          "count": 136
+        },
+        {
+          "date": "2026-03-26",
+          "count": 87
+        },
+        {
+          "date": "2026-03-27",
+          "count": 80
+        },
+        {
+          "date": "2026-03-28",
+          "count": 191
+        },
+        {
+          "date": "2026-03-29",
+          "count": 16
+        },
+        {
+          "date": "2026-03-30",
+          "count": 176
+        },
+        {
+          "date": "2026-03-31",
+          "count": 124
+        },
+        {
+          "date": "2026-04-01",
+          "count": 146
+        },
+        {
+          "date": "2026-04-02",
+          "count": 72
+        },
+        {
+          "date": "2026-04-03",
+          "count": 140
+        }
+      ]
+    },
+    {
+      "id": "KMC-0040",
+      "code": "KMC-0040",
+      "name": "Ribbon Rolls - Satin (10mm x 100m) - Gold",
+      "category": "Packaging",
+      "price": 8.26,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 19,
+      "height": 24,
+      "depth": 11,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-23",
+      "brand": "UPM",
+      "year": 2024,
+      "material": "Fabric",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-23",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-23",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 40,
+      "stockLimit": 16,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 39
+        },
+        {
+          "date": "2026-03-21",
+          "count": 104
+        },
+        {
+          "date": "2026-03-22",
+          "count": 164
+        },
+        {
+          "date": "2026-03-23",
+          "count": 111
+        },
+        {
+          "date": "2026-03-24",
+          "count": 187
+        },
+        {
+          "date": "2026-03-25",
+          "count": 62
+        },
+        {
+          "date": "2026-03-26",
+          "count": 152
+        },
+        {
+          "date": "2026-03-27",
+          "count": 119
+        },
+        {
+          "date": "2026-03-28",
+          "count": 132
+        },
+        {
+          "date": "2026-03-29",
+          "count": 110
+        },
+        {
+          "date": "2026-03-30",
+          "count": 64
+        },
+        {
+          "date": "2026-03-31",
+          "count": 179
+        },
+        {
+          "date": "2026-04-01",
+          "count": 171
+        },
+        {
+          "date": "2026-04-02",
+          "count": 121
+        },
+        {
+          "date": "2026-04-03",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "id": "KMC-0041",
+      "code": "KMC-0041",
+      "name": "Ribbon Rolls - Grosgrain (15mm x 100m) - Red",
+      "category": "Packaging",
+      "price": 12.12,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 20,
+      "height": 5,
+      "depth": 2,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "Slight wear on edges",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-22",
+      "brand": "Billerud",
+      "year": 2023,
+      "material": "Fabric",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-22",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-22",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 67,
+      "stockLimit": 38,
+      "stockUnit": "sheets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 54
+        },
+        {
+          "date": "2026-03-21",
+          "count": 167
+        },
+        {
+          "date": "2026-03-22",
+          "count": 51
+        },
+        {
+          "date": "2026-03-23",
+          "count": 145
+        },
+        {
+          "date": "2026-03-24",
+          "count": 83
+        },
+        {
+          "date": "2026-03-25",
+          "count": 214
+        },
+        {
+          "date": "2026-03-26",
+          "count": 79
+        },
+        {
+          "date": "2026-03-27",
+          "count": 198
+        },
+        {
+          "date": "2026-03-28",
+          "count": 40
+        },
+        {
+          "date": "2026-03-29",
+          "count": 44
+        },
+        {
+          "date": "2026-03-30",
+          "count": 164
+        },
+        {
+          "date": "2026-03-31",
+          "count": 214
+        },
+        {
+          "date": "2026-04-01",
+          "count": 132
+        },
+        {
+          "date": "2026-04-02",
+          "count": 118
+        },
+        {
+          "date": "2026-04-03",
+          "count": 73
+        }
+      ]
+    },
+    {
+      "id": "KMC-0042",
+      "code": "KMC-0042",
+      "name": "Ribbon Rolls - Organza (20mm x 50m) - Silver",
+      "category": "Packaging",
+      "price": 25.02,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 21,
+      "height": 6,
+      "depth": 3,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-21",
+      "brand": "Mayr-Melnhof",
+      "year": 2024,
+      "material": "Fabric",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-21",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-21",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 103,
+      "stockLimit": 16,
+      "stockUnit": "sheets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 74
+        },
+        {
+          "date": "2026-03-21",
+          "count": 158
+        },
+        {
+          "date": "2026-03-22",
+          "count": 61
+        },
+        {
+          "date": "2026-03-23",
+          "count": 17
+        },
+        {
+          "date": "2026-03-24",
+          "count": 124
+        },
+        {
+          "date": "2026-03-25",
+          "count": 41
+        },
+        {
+          "date": "2026-03-26",
+          "count": 153
+        },
+        {
+          "date": "2026-03-27",
+          "count": 45
+        },
+        {
+          "date": "2026-03-28",
+          "count": 36
+        },
+        {
+          "date": "2026-03-29",
+          "count": 123
+        },
+        {
+          "date": "2026-03-30",
+          "count": 194
+        },
+        {
+          "date": "2026-03-31",
+          "count": 85
+        },
+        {
+          "date": "2026-04-01",
+          "count": 42
+        },
+        {
+          "date": "2026-04-02",
+          "count": 26
+        },
+        {
+          "date": "2026-04-03",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "id": "KMC-0043",
+      "code": "KMC-0043",
+      "name": "Gift Tags (5x3cm) - Cardstock with String",
+      "category": "Labels",
+      "price": 3.27,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 22,
+      "height": 7,
+      "depth": 4,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Bulk purchase discount applied",
+      "dateAdded": "2026-02-20",
+      "brand": "Ahlstrom",
+      "year": 2023,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-20",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-20",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 50,
+      "stockLimit": 39,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 176
+        },
+        {
+          "date": "2026-03-21",
+          "count": 140
+        },
+        {
+          "date": "2026-03-22",
+          "count": 181
+        },
+        {
+          "date": "2026-03-23",
+          "count": 198
+        },
+        {
+          "date": "2026-03-24",
+          "count": 55
+        },
+        {
+          "date": "2026-03-25",
+          "count": 113
+        },
+        {
+          "date": "2026-03-26",
+          "count": 152
+        },
+        {
+          "date": "2026-03-27",
+          "count": 172
+        },
+        {
+          "date": "2026-03-28",
+          "count": 68
+        },
+        {
+          "date": "2026-03-29",
+          "count": 98
+        },
+        {
+          "date": "2026-03-30",
+          "count": 104
+        },
+        {
+          "date": "2026-03-31",
+          "count": 128
+        },
+        {
+          "date": "2026-04-01",
+          "count": 32
+        },
+        {
+          "date": "2026-04-02",
+          "count": 102
+        },
+        {
+          "date": "2026-04-03",
+          "count": 137
+        }
+      ]
+    },
+    {
+      "id": "KMC-0044",
+      "code": "KMC-0044",
+      "name": "Cellophane Bags (15x20cm) - Clear with Header",
+      "category": "Containers",
+      "price": 11.21,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 23,
+      "height": 8,
+      "depth": 5,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-19",
+      "brand": "Metsä Board",
+      "year": 2024,
+      "material": "Cellophane",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-19",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-19",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 70,
+      "stockLimit": 19,
+      "stockUnit": "boxes",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 226
+        },
+        {
+          "date": "2026-03-21",
+          "count": 96
+        },
+        {
+          "date": "2026-03-22",
+          "count": 112
+        },
+        {
+          "date": "2026-03-23",
+          "count": 76
+        },
+        {
+          "date": "2026-03-24",
+          "count": 211
+        },
+        {
+          "date": "2026-03-25",
+          "count": 169
+        },
+        {
+          "date": "2026-03-26",
+          "count": 215
+        },
+        {
+          "date": "2026-03-27",
+          "count": 108
+        },
+        {
+          "date": "2026-03-28",
+          "count": 208
+        },
+        {
+          "date": "2026-03-29",
+          "count": 172
+        },
+        {
+          "date": "2026-03-30",
+          "count": 109
+        },
+        {
+          "date": "2026-03-31",
+          "count": 137
+        },
+        {
+          "date": "2026-04-01",
+          "count": 137
+        },
+        {
+          "date": "2026-04-02",
+          "count": 59
+        },
+        {
+          "date": "2026-04-03",
+          "count": 115
+        }
+      ]
+    },
+    {
+      "id": "KMC-0045",
+      "code": "KMC-0045",
+      "name": "Organza Bags (10x15cm) - Drawstring Closure",
+      "category": "Containers",
+      "price": 2.83,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 24,
+      "height": 9,
+      "depth": 6,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-18",
+      "brand": "Klabin",
+      "year": 2023,
+      "material": "Fabric",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-18",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-18",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 90,
+      "stockLimit": 16,
+      "stockUnit": "rolls",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 195
+        },
+        {
+          "date": "2026-03-21",
+          "count": 175
+        },
+        {
+          "date": "2026-03-22",
+          "count": 166
+        },
+        {
+          "date": "2026-03-23",
+          "count": 44
+        },
+        {
+          "date": "2026-03-24",
+          "count": 71
+        },
+        {
+          "date": "2026-03-25",
+          "count": 96
+        },
+        {
+          "date": "2026-03-26",
+          "count": 32
+        },
+        {
+          "date": "2026-03-27",
+          "count": 99
+        },
+        {
+          "date": "2026-03-28",
+          "count": 54
+        },
+        {
+          "date": "2026-03-29",
+          "count": 145
+        },
+        {
+          "date": "2026-03-30",
+          "count": 30
+        },
+        {
+          "date": "2026-03-31",
+          "count": 37
+        },
+        {
+          "date": "2026-04-01",
+          "count": 158
+        },
+        {
+          "date": "2026-04-02",
+          "count": 142
+        },
+        {
+          "date": "2026-04-03",
+          "count": 155
+        }
+      ]
+    },
+    {
+      "id": "KMC-0046",
+      "code": "KMC-0046",
+      "name": "Shipping Boxes - Single Wall (30x20x15cm)",
+      "category": "Containers",
+      "price": 14.68,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 25,
+      "height": 10,
+      "depth": 7,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-17",
+      "brand": "Belgian Packaging Co",
+      "year": 2024,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-17",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-17",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 170,
+      "stockLimit": 11,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 114
+        },
+        {
+          "date": "2026-03-21",
+          "count": 196
+        },
+        {
+          "date": "2026-03-22",
+          "count": 129
+        },
+        {
+          "date": "2026-03-23",
+          "count": 216
+        },
+        {
+          "date": "2026-03-24",
+          "count": 168
+        },
+        {
+          "date": "2026-03-25",
+          "count": 184
+        },
+        {
+          "date": "2026-03-26",
+          "count": 22
+        },
+        {
+          "date": "2026-03-27",
+          "count": 122
+        },
+        {
+          "date": "2026-03-28",
+          "count": 137
+        },
+        {
+          "date": "2026-03-29",
+          "count": 72
+        },
+        {
+          "date": "2026-03-30",
+          "count": 28
+        },
+        {
+          "date": "2026-03-31",
+          "count": 51
+        },
+        {
+          "date": "2026-04-01",
+          "count": 50
+        },
+        {
+          "date": "2026-04-02",
+          "count": 143
+        },
+        {
+          "date": "2026-04-03",
+          "count": 145
+        }
+      ]
+    },
+    {
+      "id": "KMC-0047",
+      "code": "KMC-0047",
+      "name": "Shipping Boxes - Double Wall (40x30x25cm)",
+      "category": "Containers",
+      "price": 5.95,
+      "location": "Production Line 1",
+      "repairLocation": "N/A",
+      "width": 26,
+      "height": 11,
+      "depth": 8,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Fair",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-16",
+      "brand": "Packaging Solutions BE",
+      "year": 2023,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-16",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-16",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 155,
+      "stockLimit": 10,
+      "stockUnit": "pallets",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 94
+        },
+        {
+          "date": "2026-03-21",
+          "count": 115
+        },
+        {
+          "date": "2026-03-22",
+          "count": 77
+        },
+        {
+          "date": "2026-03-23",
+          "count": 75
+        },
+        {
+          "date": "2026-03-24",
+          "count": 126
+        },
+        {
+          "date": "2026-03-25",
+          "count": 173
+        },
+        {
+          "date": "2026-03-26",
+          "count": 96
+        },
+        {
+          "date": "2026-03-27",
+          "count": 148
+        },
+        {
+          "date": "2026-03-28",
+          "count": 94
+        },
+        {
+          "date": "2026-03-29",
+          "count": 70
+        },
+        {
+          "date": "2026-03-30",
+          "count": 178
+        },
+        {
+          "date": "2026-03-31",
+          "count": 47
+        },
+        {
+          "date": "2026-04-01",
+          "count": 0
+        },
+        {
+          "date": "2026-04-02",
+          "count": 154
+        },
+        {
+          "date": "2026-04-03",
+          "count": 100
+        }
+      ]
+    },
+    {
+      "id": "KMC-0048",
+      "code": "KMC-0048",
+      "name": "Pallet Wrap Film (500m x 50cm) - Stretch Film",
+      "category": "Sealing",
+      "price": 11.95,
+      "location": "Quality Control",
+      "repairLocation": "N/A",
+      "width": 27,
+      "height": 12,
+      "depth": 9,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Poor",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-15",
+      "brand": "Flemish Pack",
+      "year": 2024,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-15",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-15",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 163,
+      "stockLimit": 23,
+      "stockUnit": "units",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 194
+        },
+        {
+          "date": "2026-03-21",
+          "count": 180
+        },
+        {
+          "date": "2026-03-22",
+          "count": 77
+        },
+        {
+          "date": "2026-03-23",
+          "count": 33
+        },
+        {
+          "date": "2026-03-24",
+          "count": 72
+        },
+        {
+          "date": "2026-03-25",
+          "count": 46
+        },
+        {
+          "date": "2026-03-26",
+          "count": 176
+        },
+        {
+          "date": "2026-03-27",
+          "count": 31
+        },
+        {
+          "date": "2026-03-28",
+          "count": 172
+        },
+        {
+          "date": "2026-03-29",
+          "count": 93
+        },
+        {
+          "date": "2026-03-30",
+          "count": 161
+        },
+        {
+          "date": "2026-03-31",
+          "count": 134
+        },
+        {
+          "date": "2026-04-01",
+          "count": 195
+        },
+        {
+          "date": "2026-04-02",
+          "count": 133
+        },
+        {
+          "date": "2026-04-03",
+          "count": 71
+        }
+      ]
+    },
+    {
+      "id": "KMC-0049",
+      "code": "KMC-0049",
+      "name": "Plastic Strapping Bands (12mm x 1000m) - PP Material",
+      "category": "Transport",
+      "price": 8.95,
+      "location": "Warehouse A",
+      "repairLocation": "N/A",
+      "width": 28,
+      "height": 13,
+      "depth": 10,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Excellent",
+      "damageDescription": "Slight wear on edges",
+      "notes": "Bulk purchase discount applied",
+      "dateAdded": "2026-02-14",
+      "brand": "Brussels Wrap & Seal",
+      "year": 2023,
+      "material": "Plastic",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-14",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-14",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 24,
+      "stockLimit": 39,
+      "stockUnit": "units",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 108
+        },
+        {
+          "date": "2026-03-21",
+          "count": 70
+        },
+        {
+          "date": "2026-03-22",
+          "count": 106
+        },
+        {
+          "date": "2026-03-23",
+          "count": 208
+        },
+        {
+          "date": "2026-03-24",
+          "count": 58
+        },
+        {
+          "date": "2026-03-25",
+          "count": 186
+        },
+        {
+          "date": "2026-03-26",
+          "count": 50
+        },
+        {
+          "date": "2026-03-27",
+          "count": 132
+        },
+        {
+          "date": "2026-03-28",
+          "count": 105
+        },
+        {
+          "date": "2026-03-29",
+          "count": 185
+        },
+        {
+          "date": "2026-03-30",
+          "count": 104
+        },
+        {
+          "date": "2026-03-31",
+          "count": 93
+        },
+        {
+          "date": "2026-04-01",
+          "count": 64
+        },
+        {
+          "date": "2026-04-02",
+          "count": 111
+        },
+        {
+          "date": "2026-04-03",
+          "count": 214
+        }
+      ]
+    },
+    {
+      "id": "KMC-0050",
+      "code": "KMC-0050",
+      "name": "Steel Strapping Bands (12mm x 100m) - High Tension",
+      "category": "Transport",
+      "price": 20.01,
+      "location": "Storage Room B",
+      "repairLocation": "N/A",
+      "width": 29,
+      "height": 14,
+      "depth": 11,
+      "repairs": [
+        {
+          "name": "Quote Requested",
+          "done": true
+        },
+        {
+          "name": "Awaiting Proforma",
+          "done": false
+        },
+        {
+          "name": "Proforma Approved",
+          "done": false
+        },
+        {
+          "name": "Order Placed",
+          "done": false
+        },
+        {
+          "name": "In Transit",
+          "done": false
+        },
+        {
+          "name": "Delivered",
+          "done": false
+        },
+        {
+          "name": "Invoice Received",
+          "done": false
+        },
+        {
+          "name": "Invoice Paid",
+          "done": false
+        },
+        {
+          "name": "Order Complete",
+          "done": false
+        }
+      ],
+      "photos": [],
+      "condition": "Good",
+      "damageDescription": "None",
+      "notes": "Standard stock item",
+      "dateAdded": "2026-02-13",
+      "brand": "Antwerp Box Makers",
+      "year": 2024,
+      "material": "Mixed Materials",
+      "sold": false,
+      "soldAt": null,
+      "soldBy": null,
+      "createdBy": "system",
+      "updatedBy": "system",
+      "updatedAt": "2026-02-13",
+      "revision": 1,
+      "auditTrail": [
+        {
+          "ts": "2026-02-13",
+          "user": "system",
+          "action": "created",
+          "revision": 1
+        }
+      ],
+      "stockCount": 126,
+      "stockLimit": 38,
+      "stockUnit": "units",
+      "stockHistory": [
+        {
+          "date": "2026-03-20",
+          "count": 198
+        },
+        {
+          "date": "2026-03-21",
+          "count": 47
+        },
+        {
+          "date": "2026-03-22",
+          "count": 156
+        },
+        {
+          "date": "2026-03-23",
+          "count": 96
+        },
+        {
+          "date": "2026-03-24",
+          "count": 47
+        },
+        {
+          "date": "2026-03-25",
+          "count": 68
+        },
+        {
+          "date": "2026-03-26",
+          "count": 62
+        },
+        {
+          "date": "2026-03-27",
+          "count": 102
+        },
+        {
+          "date": "2026-03-28",
+          "count": 28
+        },
+        {
+          "date": "2026-03-29",
+          "count": 82
+        },
+        {
+          "date": "2026-03-30",
+          "count": 84
+        },
+        {
+          "date": "2026-03-31",
+          "count": 144
+        },
+        {
+          "date": "2026-04-01",
+          "count": 157
+        },
+        {
+          "date": "2026-04-02",
+          "count": 173
+        },
+        {
+          "date": "2026-04-03",
+          "count": 172
+        }
+      ]
+    }
+  ],
+  "settings": null,
+  "queue": [],
+  "updatedAt": "2026-04-03T09:56:44.589Z"
+}
