@@ -87,7 +87,10 @@ export default function RootLayout({
         {/* Sidebar Navigation */}
         <aside className="hidden md:flex flex-col w-56 bg-zinc-950/90 border-r border-zinc-800 p-6 gap-8 shadow-xl">
           <div className="relative w-32 h-24 shrink-0 flex items-center justify-center" aria-label="App logo">
-            <Image src="/sidebar-logo.png" alt="App logo" width={128} height={96} className="object-contain" />
+            <div className="absolute inset-0 bg-black/100 z-0" />
+            <div className="relative z-10">
+              <Image src="/sidebar-logo.png" alt="App logo" width={128} height={96} className="object-contain" />
+            </div>
           </div>
           <nav className="flex flex-col gap-4 flex-1 justify-center">
             <Link href="/?view=dashboard" className={navClass(activeView === "dashboard")} onClick={() => setActiveView("dashboard")}>Dashboard</Link>
@@ -129,7 +132,10 @@ export default function RootLayout({
               title="Open app menu"
             >
               <span className="absolute inset-2 flex items-center justify-center">
-                <Image src="/sidebar-logo.png" alt="App logo" width={56} height={42} className="object-contain" />
+                <span className="absolute inset-0 bg-black/100 z-0" />
+                <span className="relative z-10">
+                  <Image src="/sidebar-logo.png" alt="App logo" width={56} height={42} className="object-contain" />
+                </span>
               </span>
             </button>
           </div>
